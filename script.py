@@ -5,7 +5,8 @@
 
 
 def print_hi(name):
-    print(f'Hola Mundo, {name}')
+    nombre = input ('Cual es tu nombre')
+    print(f'Hola, {name}',nombre,'Bienvenido a Git')
 
 
 # Press the green button in the gutter to run the script.
